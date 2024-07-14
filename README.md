@@ -14,7 +14,7 @@ Font Awesome: Icons for user interface elements.<br>
 
 # Setup Instructions
 <h4>Clone the repository:</h4>
-git clone https://github.com/Sanketarali/EmployeeManagement.git<br>
+git clone https://github.com/Sanketarali/Django-Crud-Operation.git<br>
 cd EmployeeManagement
 
 
